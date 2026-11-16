@@ -1,11 +1,18 @@
 export default function Experience() {
   const experiences = [
     {
-      year: "January - 2026 — Present",
-      title: "Mobile App Developer",
+      year: "July - 2026 — Present",
+      title: "Sr. Mobile App Developer",
       company: "SparkTech Agency",
       description:
         "Leading mobile development initiatives, mentoring junior developers, and architecting scalable applications.",
+    },
+    {
+      year: "January - 2026 - July 2026",
+      title: "Mobile App Developer",
+      company: "SparkTech Agency",
+      description:
+        "Engineered robust cross-platform applications, integrated core features and APIs, and improved app performance and stability.",
     },
     {
       year: "August - 2025 - January 2026",
