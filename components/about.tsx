@@ -60,7 +60,7 @@ export default function About() {
                 marginBottom: "8px",
               }}
             >
-              1.2+
+              1.5+
             </div>
             <div
               style={{
@@ -86,8 +86,8 @@ export default function About() {
               }}
             >
               {[
-                { value: "12+", label: "Projects" },
-                { value: "5+", label: "Live Apps" },
+                { value: "19+", label: "Projects" },
+                { value: "10+", label: "Live Apps" },
               ].map((s) => (
                 <div key={s.label}>
                   <div

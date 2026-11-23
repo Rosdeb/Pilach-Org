@@ -177,9 +177,9 @@ export default function Hero() {
 
             <div className="hero-stats-panel">
               {[
-                { value: "1.2+", label: "Years" },
-                { value: "12+", label: "Projects" },
-                { value: "5+", label: "Live Apps" },
+                { value: "1.5+", label: "Years" },
+                { value: "19+", label: "Projects" },
+                { value: "10+", label: "Live Apps" },
               ].map((s) => (
                 <div key={s.label} className="hero-stat-item">
                   <div className="hero-stat-value">{s.value}</div>
