@@ -116,8 +116,8 @@ export default function Hero() {
                 Get in Touch
               </a>
               <a
-                href="/rosdeb--cv.pdf"
-                download="rosdeb--cv.pdf"
+                href="/rosdeb_koch_resume (1).pdf"
+                download="rosdeb_koch_resume (1).pdf"
                 className="btn-outline"
                 style={{ display: "inline-flex", alignItems: "center", gap: "8px" }}
               >
