@@ -146,13 +146,12 @@ export default function Hero() {
                 <div className="hero-image-ring">
                   <div className="hero-image-panel">
                     <Image
-                      src="/rosdebkoch12.jpeg"
+                      src="/rosdeb_photo.jpeg"
                       alt="Rosdeb Koch — Mobile Developer"
                       fill
                       className="object-cover"
                       priority
                     />
-                    <div className="hero-image-vignette" />
                   </div>
                 </div>
               </div>
@@ -389,10 +388,10 @@ export default function Hero() {
           position: relative;
           width: 420px;
           height: 420px;
-          padding: 10px;
+          padding: 8px;
           border-radius: 999px;
-          background: linear-gradient(140deg, rgba(128, 161, 186, 0.95), rgba(145, 196, 195, 0.72), rgba(180, 222, 189, 0.78));
-          box-shadow: 0 30px 80px rgba(128, 161, 186, 0.22);
+          background: #ffffff;
+          box-shadow: 0 24px 60px rgba(15, 23, 42, 0.12), 0 0 0 1px rgba(0, 0, 0, 0.06);
         }
 
         .hero-image-panel {
@@ -401,7 +400,8 @@ export default function Hero() {
           height: 100%;
           overflow: hidden;
           border-radius: 999px;
-          border: 6px solid rgba(30, 42, 49, 0.92);
+          border: 6px solid #ffffff;
+          background-color: #ffffff;
         }
 
         .hero-image-panel img {
@@ -411,12 +411,6 @@ export default function Hero() {
 
         .hero-image-card:hover .hero-image-panel img {
           transform: scale(1.09);
-        }
-
-        .hero-image-vignette {
-          position: absolute;
-          inset: 0;
-          background: radial-gradient(circle at 50% 30%, rgba(10, 10, 10, 0) 22%, rgba(10, 10, 10, 0.12) 62%, rgba(10, 10, 10, 0.4) 100%);
         }
 
         @keyframes heroTitleFloat {
