@@ -15,7 +15,7 @@ A complete architectural, engineering, and product dossier covering all 19 proje
 | **GitHub** | [github.com/Rosdeb](https://github.com/Rosdeb) |
 | **LinkedIn** | [linkedin.com/in/rosdev-koch-260005324/](https://www.linkedin.com/in/rosdev-koch-260005324/) |
 | **Twitter / X** | [x.com](https://x.com) |
-| **Curriculum Vitae** | Downloadable PDF ([rosdeb--cv.pdf](file:///Users/rosdebkoch/All_Project/Pilach-Org/public/rosdeb--cv.pdf)) |
+| **Curriculum Vitae** | Downloadable PDF ([rosdeb-koch_updated_cv.pdf](file:///Users/rosdebkoch/All_Project/Pilach-Org/public/rosdeb-koch_updated_cv.pdf)) |
 | **Experience Metric** | **1.5+ Years** professional production delivery |
 | **Shipped Products** | **19+ Projects** & developer workstations |
 | **Store Presence** | **10+ Live Apps** on Apple App Store & Google Play Store |

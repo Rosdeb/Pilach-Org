@@ -12,7 +12,7 @@ export default function Footer() {
     { label: "Projects", href: "#projects" },
     { label: "Experience", href: "#experience" },
     { label: "Contact", href: "#contact" },
-    { label: "Download CV", href: "/rosdeb_koch_resume (1).pdf", isDownload: true },
+    { label: "Download CV", href: "/rosdeb-koch_updated_cv.pdf", isDownload: true },
   ]
 
   const socialLinks = [
@@ -134,7 +134,7 @@ export default function Footer() {
                 <li key={link.label}>
                   <a
                     href={link.href}
-                    download={link.isDownload ? "rosdeb_koch_resume (1).pdf" : undefined}
+                    download={link.isDownload ? "Rosdeb_Koch_CV.pdf" : undefined}
                     style={{
                       fontSize: "13px",
                       color: "var(--muted)",
